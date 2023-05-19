@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1670888618 source:/home/seif/Public/6773_lab5/main.cpp
+	<iostream>
+	<sys/ipc.h>
+	<sys/shm.h>
+	<stdio.h>
+
+1670889411 source:/home/seif/Public/6773_lab5/consumer.cpp
+	<iostream>
+	<sys/ipc.h>
+	<sys/shm.h>
+	<stdio.h>
+
